@@ -1,0 +1,1 @@
+This folder will have my Notes in a google colab format, while i keep learning and advancing in my ML journey, the notes will be in Google Colab or Jupyter
